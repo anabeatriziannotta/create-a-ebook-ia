@@ -1,10 +1,8 @@
+# Projeto Ebook Gerado por I.A by DIO
 
-# Projeto EBOOK Gerado por I.A by DIO
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/anabeatriziannotta/create-a-ebook-ia/blob/main/outputs/Ebook%20-%20A%20Era%20da%20Cloud.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
